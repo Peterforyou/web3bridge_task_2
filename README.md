@@ -42,17 +42,17 @@ Users should be able to:
 
 I learnt how to make my boxes higher than each other boxes in a given container by using the align self attribute in aligning the divs in a container.
 
-html
+```html
   <div class="testimony">
-
-css
+```
+```css
  .testimony:first-child {
     align-self: flex-start;
   }
   .testimony:last-child {
     align-self: flex-end;
   }
-
+```
 
 ### Continued development    
 
