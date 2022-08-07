@@ -19,9 +19,6 @@ This is a task from Frontend Mentor to build a Social proof section to aid my pr
 ### The challenge
 The challenge is to build out Social proof section and get it looking as close to the design given as possible.
 
-Users should be able to:
-- View the optimal layout depending on their device's screen size
-
 ### Screenshot
 
 ![](./images/Annotation%202022-08-06%20122042.png)
